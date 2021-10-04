@@ -12,6 +12,3 @@ Ths script is for use only as a template, you must adapt it to feat your needs.
 * Script generate a PDF
 * for compatibility and alternative uses, a Latex document is also generated
 * PDF output is generated from latex file
-
-![catalog](https://github.com/Raiden1024/Arcat/blob/main/assets/Capture.png)
-
