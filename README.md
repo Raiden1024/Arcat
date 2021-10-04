@@ -13,5 +13,5 @@ Ths script is for use only as a template, you must adapt it to feat your needs.
 * for compatibility and alternative uses, a Latex document is also generated
 * PDF output is generated from latex file
 
-![picture](https://github.com/Raiden1024/Arcat/tree/main/assets/Capture.png)
+![catalog]("https://github.com/Raiden1024/Arcat/tree/main/assets/Capture.png")
 
